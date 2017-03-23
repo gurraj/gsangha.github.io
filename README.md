@@ -38,6 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Test
  [Test](https://gurraj.github.io/gsangha.github.io/Basics-Copy1)
-
+ 
+ # Test2
+ [Test2](https://github.com/gurraj/gsangha.github.io/blob/master/Analyzing%20Thanksgiving%20Dinner.ipynb)
+ 
 
 
